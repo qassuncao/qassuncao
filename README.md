@@ -1,4 +1,13 @@
 # hello-world
+
+![](https://komarev.com/ghpvc/?username=qassuncao&color=006bed)
+
+<h3> :men: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para testes.
+- 💼 &nbsp; Trabalhando como Analista de Qualidade de Software na <a href="https://mirumagency.com.br">Mirum Agency</a>
+- 🌱 &nbsp; Curso de Python com o @gustavoguanabara- Mundo 1 #concluído. Atualmente cursando o Mundo 2.
+
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: FABIO ASSUNÇÃO](https://img.shields.io/badge/-Fabio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-assunção-qa/)](https://www.linkedin.com/in/fabio-assunção-qa/)
