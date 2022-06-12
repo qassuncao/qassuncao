@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=qassuncao&color=006bed)
 
-<h3> :men: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para testes.
 - 💼 &nbsp; Trabalhando como Analista de Qualidade de Software na <a href="https://mirumagency.com.br">Mirum Agency</a>
