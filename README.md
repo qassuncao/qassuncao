@@ -5,7 +5,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para testes.
-- 💼 &nbsp; Trabalhando como Analista de Qualidade de Software na <a href="https://mirumagency.com.br">Mirum Agency</a>
+- 💼 &nbsp; Trabalhando como Analista de Qualidade de Software na <a href="http://www.mirumagency.com.br">Mirum Agency</a>
 - 🌱 &nbsp; Curso de Python com o @gustavoguanabara- Mundo 1 #concluído. Atualmente cursando o Mundo 2.
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
