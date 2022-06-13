@@ -11,7 +11,7 @@
 **Ferramentas**
 
   ![Git](https://badgen.net/badge/Git/git?icon=git&label)
-  ![GitHub](https://badgen.net/badge/color/yellow/github?icon=github&label)
+  ![GitHub](https://badgen.net/badge/color/Github/github?icon=github&label)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
