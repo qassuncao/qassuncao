@@ -19,7 +19,7 @@
   ![Postgreqsl](https://badgen.net/badge/color/Postgresql/yellow?icon=postgresql&label)
   ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![SonarQube] (https://badgen.net/badge/color/SonarQube/yellow?icon=sonarqube&label)
+  ![SonarQube](https://badgen.net/badge/color/SonarQube/yellow?icon=sonarqube&label)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
