@@ -10,15 +10,16 @@
 
 **Ferramentas**
 
-  ![Git](https://badgen.net/badge/Git/git?icon=git&label)
-  ![GitHub](https://badgen.net/badge/color/Github/github?icon=github&label)
+  ![Git](https://badgen.net/badge/color/Git/yellow?icon=git&label)
+  ![GitHub](https://badgen.net/badge/color/Github/yellow?icon=github&label)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Docker](https://badgen.net/badge/color/Docker/yellow?icon=docker&label)
+  ![Visual Studio Code](https://badgen.net/badge/color/VisualStudio/yellow?icon=visualstudio&label)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Postgreqsl](https://badgen.net/badge/yellow/Postgresql/postgresql?icon=postgresql&label)
+  ![Postgreqsl](https://badgen.net/badge/color/Postgresql/yellow?icon=postgresql&label)
   ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![SonarQube] (https://badgen.net/badge/color/SonarQube/yellow?icon=sonarqube&label)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
