@@ -32,4 +32,4 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fabiomoraisassuncao/about)
 [![GitHub qassuncao]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/qassuncao/)
 
-![Qassuncao GitHub stats](https://github-readme-stats.vercel.app/api?username=qassuncao&show_icons=true&theme=radical)
+![Qassuncao GitHub stats](https://github-readme-stats.vercel.app/api?username=qassuncao&show_icons=true&theme=dark)
