@@ -1,5 +1,9 @@
 # hello-world
 
+<h3 align="center">
+<img src="https://www.canva.com/design/DAFDhmTIqhI/view" alt="stacks"/>
+</h3>
+
 ![](https://komarev.com/ghpvc/?username=qassuncao&color=006bed)
 
 <h3> :man: &nbsp;Sobre mim </h3>
