@@ -1,7 +1,7 @@
 # hello-world
 
 <h3 align="center">
-<img src="https://www.canva.com/design/DAFDhmTIqhI/9NrHEAtxShr9h7b2Hqr0Bw/view?utm_content=DAFDhmTIqhI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="stacks"/>
+<img src="https://github.com/qassuncao/hello-world/raw/main/image-readme/QASSUNCAO.png" alt="stacks"/>
 </h3>
 
 ![](https://komarev.com/ghpvc/?username=qassuncao&color=006bed)
