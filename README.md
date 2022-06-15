@@ -37,4 +37,4 @@ Explorando novas tecnologias e desenvolvendo soluções para testes. Atualmente 
 
 **Status**
 
-![Qassuncao GitHub stats](https://github-readme-stats.vercel.app/api?username=qassuncao&show_icons=true&theme=dark)
+![Qassuncao GitHub stats](https://github-readme-stats.vercel.app/api?username=qassuncao&show_icons=true&theme=great-gatsby)
