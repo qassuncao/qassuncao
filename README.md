@@ -17,6 +17,11 @@ Explorando novas tecnologias e desenvolvendo soluções para testes. Atualmente 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fabiomoraisassuncao/about)
 [![GitHub qassuncao]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/qassuncao/)
 
+<h3>Postagens recentes</h3>
+<ul>
+  <li><a href="https://medium.com/@fabiomoraisassuncao/frontend-com-python-1a6ec2b5b9dc"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Frontend com Python?</b></a><br/><i>Conheça o PyScript.</i></li>
+</ul>
+
 **Ferramentas**
 
   ![Git](https://badgen.net/badge/color/Git/yellow?icon=git&label)
