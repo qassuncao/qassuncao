@@ -4,37 +4,47 @@
 <img src="https://github.com/qassuncao/hello-world/raw/main/image-readme/QASSUNCAO.png" alt="stacks"/>
 </h3>
 
-![](https://komarev.com/ghpvc/?username=qassuncao&color=006bed)
+![](https://komarev.com/ghpvc/?username=qassuncao&color=E39F20)
 
-<h3>Olá, meu nome é Fabio Assunção</h3>
+<h1 font color="white">Olá, meu nome é Fabio Assunção</h1>
 
-Explorando novas tecnologias e desenvolvendo soluções para testes. Atualmente trabalhando como Analista de Qualidade de Software na <a href="http://www.mirumagency.com.br">Mirum Agency</a>. Cursando o Mundo 2 de Python com o <a href="https://github.com/gustavoguanabara">@gustavoguanabara<a>.
+Explorando novas tecnologias e desenvolvendo soluções para testes. Atualmente trabalhando como Analista de Qualidade de Software na <a href="http://www.mirumagency.com.br"><font color="E39F20">Mirum Agency</font></a>. Cursando o Mundo 2 de Python com o <a href="https://github.com/gustavoguanabara"><font color="E39F20">@gustavoguanabara</font><a>.
 
-<h3>Onde me encontrar</h3> 
+<h2><font color="white">Ferramentas</h2>
 
-[![Linkedin: FABIO ASSUNÇÃO](https://img.shields.io/badge/-Fabio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-assunção-qa/)](https://www.linkedin.com/in/fabio-assunção-qa/)
-[![Gmail Badge](https://img.shields.io/badge/-fabiomoraisassuncao@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiomoraisassuncao@gmail.com)](mailto:fabiomoraisassuncao@gmail.com)
+  ![Git](https://img.shields.io/badge/Git-E39F20?style=for-the-badge&logo=git&logoColor=black)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-E39F20?style=for-the-badge&logo=jenkins&logoColor=black)
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-E39F20?style=for-the-badge&logo=bitbucket&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-E39F20?style=for-the-badge&logo=docker&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/MySQL-E39F20?style=for-the-badge&logo=mysql&logoColor=black)
+  ![Postman](https://img.shields.io/badge/Postman-E39F20?style=for-the-badge&logo=postman&logoColor=black)
+  ![Postgreqsl](https://img.shields.io/badge/PostgreSQL-E39F20?style=for-the-badge&logo=postgresql&logoColor=black)
+  ![Mongodb](https://img.shields.io/badge/MongoDB-E39F20?style=for-the-badge&logo=mongodb&logoColor=black)
+  ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-E39F20?style=for-the-badge&logo=amazon-aws&logoColor=black)
+  ![SonarQube](https://img.shields.io/badge/SonarQube-E39F20?style=for-the-badge&logo=sonarqube&logoColor=black)
+
+<h2>Linguagens</h2>
+
+  ![Python](https://img.shields.io/badge/Python-E39F20?style=for-the-badge&logo=python&logoColor=black)
+
+---
+<h2>Onde me encontrar</h2> 
+
+[![Linkedin: FABIO ASSUNÇÃO](https://img.shields.io/badge/-Linkedin-E39F20?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/fabio-assunção-qa/)](https://www.linkedin.com/in/fabio-assunção-qa/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-E39F20?style=for-the-badge&logo=gmail&logoColor=black&link=mailto:fabiomoraisassuncao@gmail.com)](mailto:fabiomoraisassuncao@gmail.com)
+[![GitHub qassuncao](https://img.shields.io/badge/GitHub-E39F20?style=for-the-badge&logo=github&logoColor=black)](https://github.com/qassuncao/)
+
+
+---
+
+<h2>Postagens recentes</h2>
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fabiomoraisassuncao/about)
-[![GitHub qassuncao]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/qassuncao/)
-
-<h3>Postagens recentes</h3>
 <ul>
-  <li><a href="https://medium.com/@fabiomoraisassuncao/frontend-com-python-1a6ec2b5b9dc"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Frontend com Python?</b></a><br/><i>Conheça o PyScript.</i></li>
+  <li><a href="https://medium.com/@fabiomoraisassuncao/frontend-com-python-1a6ec2b5b9dc"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><font color="E39F20"> Frontend com Python?</font></b></a><br/><i>Conheça o PyScript.</i></li>
 </ul>
 
-**Ferramentas**
+---
 
-  ![Git](https://badgen.net/badge/color/Git/yellow?icon=git&label)
-  ![GitHub](https://badgen.net/badge/color/Github/yellow?icon=github&label)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Docker](https://badgen.net/badge/color/Docker/yellow?icon=docker&label)
-  ![Visual Studio Code](https://badgen.net/badge/color/VisualStudio/yellow?icon=visualstudio&label)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Postgreqsl](https://badgen.net/badge/color/Postgresql/yellow?icon=postgresql&label)
-  ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![SonarQube](https://badgen.net/badge/color/SonarQube/yellow?icon=sonarqube&label)
-
-**Status**
+<h2>Stats</h2>
 
 ![Qassuncao GitHub stats](https://github-readme-stats.vercel.app/api?username=qassuncao&show_icons=true&theme=great-gatsby)
