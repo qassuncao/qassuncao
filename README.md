@@ -8,7 +8,7 @@
 
 <h1 font color="white">Olá, meu nome é Fabio Assunção</h1>
 
-Explorando novas tecnologias e desenvolvendo soluções para testes. Atualmente trabalhando como Analista de Qualidade de Software na <a href="http://www.mirumagency.com.br"><font color="E39F20">Mirum Agency</font></a>. Cursando o Mundo 2 de Python com o <a href="https://github.com/gustavoguanabara"><font color="E39F20">@gustavoguanabara</font><a>.
+Explorando novas tecnologias e desenvolvendo soluções para testes. Atualmente trabalhando como Analista de Qualidade de Software na <a href="http://www.mirumagency.com.br">Mirum Agency</a>. Cursando o Mundo 2 de Python com o <a href="https://github.com/gustavoguanabara">@gustavoguanabara<a>.
 
 <h2><font color="white">Ferramentas</h2>
 
@@ -42,7 +42,7 @@ Explorando novas tecnologias e desenvolvendo soluções para testes. Atualmente 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fabiomoraisassuncao)
 
 <ul>
-  <li><a href="https://medium.com/@fabiomoraisassuncao/frontend-com-python-1a6ec2b5b9dc"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new"><p style="color:darkorange">Frontend com Python?</p></b></a><br/><i>Conheça o PyScript.</i></li>
+  <li><a href="https://medium.com/@fabiomoraisassuncao/frontend-com-python-1a6ec2b5b9dc"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new"/>Frontend com Python?</b></a><br/><i>Conheça o PyScript.</i></li>
 </ul>
 
 ---
