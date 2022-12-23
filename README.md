@@ -1,8 +1,8 @@
 # Bem vindx / Welcome
 
-<h3 align="center">
+<p align='center'>
 <img src="https://github.com/qassuncao/hello-world/raw/main/image-readme/qassuncao-6.gif" alt="stacks"/>
-</h3>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=qassuncao&color=E39F20)
 
@@ -48,5 +48,4 @@ Explorando novas tecnologias e desenvolvendo soluções para testes. Atualmente 
 ---
 
 <h2>Stats</h2>
-
-![Qassuncao GitHub stats](https://github-readme-stats.vercel.app/api?username=qassuncao&show_icons=true&theme=great-gatsby)
+  ![Qassuncao GitHub stats](https://github-readme-stats.vercel.app/api?username=qassuncao&show_icons=true&theme=great-gatsby)
