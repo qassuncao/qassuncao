@@ -16,8 +16,7 @@
 Software na <a style="color: #ffdd00" href="http://www.mirumagency.com.br">Mirum Agency</a>. Cursando o Mundo 2 de Python com o 
 <a style="color: #ffdd00" href="https://github.com/gustavoguanabara">@gustavoguanabara</a>. Sou uma pessoa curiosa, gosto de me envolver em
 projetos que me desafiem e que possam me ajudar a crescer como pessoa e profissional.
-
-<a href="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="qassuncao" data-color="#FFDD00" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</p>
 
 <h3><p style="color: white; font-family: 'Fira Code Retina'">Ferramentas</h3>
 
