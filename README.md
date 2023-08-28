@@ -1,7 +1,6 @@
 # Bem vindx / Welcome
 
 <p align='center'>
-<img src="https://github.com/qassuncao/hello-world/raw/main/image-readme/banner-qassuncao.gif" alt="stacks"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=qassuncao&color=ffdd00)
