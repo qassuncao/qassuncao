@@ -42,8 +42,7 @@ projetos que me desafiem e que possam me ajudar a crescer como pessoa e profissi
 [![Medium](https://img.shields.io/badge/Medium-ffdd00?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fabiomoraisassuncao)
 
 <ul>
-  <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new"/>
-  <a href="https://medium.com/@fabiomoraisassuncao/manifesto-do-teste-ágil-7784d3178afd"><b>QA | Capítulo 2 — Manifesto do Teste Ágil</b></a><br/><i>Manifesto do Teste Ágil.</i></li>  
+  <li><a href="https://medium.com/@fabiomoraisassuncao/manifesto-do-teste-ágil-7784d3178afd"><b>QA | Capítulo 2 — Manifesto do Teste Ágil</b></a><br/><i>Manifesto do Teste Ágil.</i></li>  
   <li><a href="https://medium.com/@fabiomoraisassuncao/qa-capítulo-1-lâmpada-9346ac1d6a4f"><b>QA | Capítulo 1 — Lâmpada</b></a><br/><i>Casos de Testes.</i></li>
   <li><a href="https://medium.com/@fabiomoraisassuncao/wrapper-6097b986de68"><b>Python | Capítulo 2 — Wrapper</b></a><br/><i>Design Patterns.</i></li>
   <li><a href="https://medium.com/@fabiomoraisassuncao/frontend-com-python-1a6ec2b5b9dc"><b>Python | Capítulo 1 — Frontend com Python?</b></a><br/><i>Conheça o PyScript.</i></li>
