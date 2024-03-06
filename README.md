@@ -50,8 +50,4 @@ projetos que me desafiem e que possam me ajudar a crescer como pessoa e profissi
 </ul>
 
 ---
-
-<h3><p style="color: white; font-family: 'Fira Code Retina'">Stats</h3>
-
-  ![Qqafabio GitHub stats](https://github-readme-stats.vercel.app/api?username=qqafabio&show_icons=true&theme=great-gatsby)
   
