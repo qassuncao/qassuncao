@@ -1,4 +1,4 @@
-# Bem vindx / Welcome
+# Bem vindos(as, es) / Welcome
 
 <p align='center'>
 </p>
